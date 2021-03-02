@@ -1,6 +1,6 @@
 # SU0100
 
-Filerne som bruges til kurset [SU0100 LINUX/UNIX Grundkursus](https://github.com/SuperUsersDK/SU0100) er samlet i filen labs.tar.xz.  
+Filerne som bruges til kurset [SU0100 LINUX/UNIX Grundkursus](https://github.com/SuperUsersDK/SU0100) er samlet i filen [labs.tar.xz](https://github.com/SuperUsersDK/SU0100/blob/master/labs.tar.xz).  
 
 Her er en række links, som indeholder nyttig information:
 
